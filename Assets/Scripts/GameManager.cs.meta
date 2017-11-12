@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a741e253b90e6e84194bbc4855358448
+timeCreated: 1502944166
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - FrisbyTile: {fileID: 1659177440499686, guid: c2d2ca1c79bf5364ab3ea854e84e1840,
+      type: 2}
+  - PlayerTile: {fileID: 1721828221945606, guid: 1003943b0957cb24db1a299f4eb78d8b,
+      type: 2}
+  - TargetTile: {fileID: 1296981904494606, guid: b033c06b2629d4e4ea1d2efc74afd5f0,
+      type: 2}
+  - boardScript: {fileID: 114384639932524310, guid: f3a200b1ad979394481b7d15e80a7759,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

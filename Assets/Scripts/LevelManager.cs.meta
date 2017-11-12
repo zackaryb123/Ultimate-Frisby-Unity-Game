@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ed7d06228d8b63d46989e02dff222ed1
+timeCreated: 1502671697
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - FloorTiles: {fileID: 1482251238327870, guid: 1744e9a0035ce3943bfde90a491b7cd5,
+      type: 2}
+  - CoinTiles: {fileID: 1903627244627046, guid: 51a602f8f2661da47983f4d3fde161b0,
+      type: 2}
+  - EnemyTiles: {fileID: 1159400060294802, guid: 065d5acd96f05804cab1cb816e25084b,
+      type: 2}
+  - OuterWallTiles: {fileID: 1448349392756594, guid: 20125983372a0b34fa6388dfdaff49fe,
+      type: 2}
+  - PlayerTile: {fileID: 1721828221945606, guid: 1003943b0957cb24db1a299f4eb78d8b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
